@@ -7,6 +7,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.Clear();
         ExibirCabecalho();
 
         Console.Write("\nDigite o valor da posição X: ");
